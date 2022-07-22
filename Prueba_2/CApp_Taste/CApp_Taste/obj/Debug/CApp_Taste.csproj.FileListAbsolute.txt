@@ -1,0 +1,7 @@
+C:\Users\luis_\Desktop\testdevbackjr\Prueba_2\CApp_Taste\CApp_Taste\bin\Debug\CApp_Taste.exe.config
+C:\Users\luis_\Desktop\testdevbackjr\Prueba_2\CApp_Taste\CApp_Taste\bin\Debug\CApp_Taste.exe
+C:\Users\luis_\Desktop\testdevbackjr\Prueba_2\CApp_Taste\CApp_Taste\bin\Debug\CApp_Taste.pdb
+C:\Users\luis_\Desktop\testdevbackjr\Prueba_2\CApp_Taste\CApp_Taste\obj\Debug\CApp_Taste.csprojAssemblyReference.cache
+C:\Users\luis_\Desktop\testdevbackjr\Prueba_2\CApp_Taste\CApp_Taste\obj\Debug\CApp_Taste.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Desktop\testdevbackjr\Prueba_2\CApp_Taste\CApp_Taste\obj\Debug\CApp_Taste.exe
+C:\Users\luis_\Desktop\testdevbackjr\Prueba_2\CApp_Taste\CApp_Taste\obj\Debug\CApp_Taste.pdb
